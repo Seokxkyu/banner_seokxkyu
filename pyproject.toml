@@ -15,6 +15,7 @@ license = {text = "MIT"}
 [project.scripts]
 Seokxkyu-banner = 'banner_seokxkyu.banner:show'
 Seokxkyu-pic = 'banner_seokxkyu.banner:pic'
+Seokxkyu-lotto = 'banner_seokxkyu.banner:lotto'
 
 [tool.pdm]
 distribution = true
