@@ -8,5 +8,5 @@
 To install the `banner_seokxkyu` package, ensure you have Python 3.9 or above installed. You can then install the package using the following command:
 
 ```sh
-pip install git+https://github.com/Seokxkyu/banner_seokxkyu.git
+pip install banner_seokxkyu 0.2.2
 ```
